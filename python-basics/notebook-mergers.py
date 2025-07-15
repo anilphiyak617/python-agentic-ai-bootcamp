@@ -1,7 +1,7 @@
 import nbformat
 
 # List your files in order
-notebooks = ["1.1-basics.ipynb", "1.3-operators.ipynb", "1.4-conditionals.ipynb", "1.5-loops.ipynb", "1.6-data-structures.ipynb"]
+notebooks = ["1.5-loops.ipynb", "1.6-data-structures.ipynb", "1.7-sets.ipynb", "1.8-dictionaries.ipynb", "1.9-tuples.ipynb", "2.0-function.ipynb", "3.1-maps.ipynb"]
 merged_nb = nbformat.v4.new_notebook()
 merged_nb.cells = []
 
